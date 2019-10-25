@@ -1,0 +1,31 @@
+#query {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#query input, textarea {
+    color: inherit;
+    display: block;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    outline: blue;
+    width: 40vw;
+    max-width: 400px;
+}
+
+#query textarea {
+    height: 4rem;
+}
+
+#query button {
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    padding: .5rem;
+    background-color: white;
+    cursor: pointer;
+    margin-bottom: 2rem;
+}
